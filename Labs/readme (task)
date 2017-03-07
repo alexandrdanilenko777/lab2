@@ -1,0 +1,7 @@
+standart task from doc of rodionov.
+
+additional task for lab 
+  3 db (fly_booking, hotel_booking, account)
+  account database: id, TotalSum; 
+  if user booked hotel and 'fly', he paid 200; if user don`t have 200 on card account - rollback.
+
